@@ -1,7 +1,7 @@
 <h1>SweetSips UXD</h1>
 
 Figma:
-https://www.figma.com/design/eacI6XybrQjxETFygLEAB8/SweetSips?m=dev&node-id=0%3A1&t=Iu6x6qEyVQQnkUQl-1 
+https://www.figma.com/design/eacI6XybrQjxETFygLEAB8/SweetSips?node-id=0-1&t=qnn1cOSVYqfyrTNR-0
 
 <h2>Index</h2>
   <ul>
