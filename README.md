@@ -32,14 +32,23 @@ Tenemos el "Value Proposition Canvas" que se utilizo para determinar cual es la 
 <hr>
 
 <h2 id="scope">Scope</h2>
+El alcance que queremos llegar depende de las siguientes tres personas que fueron entrevistadas.
 <img src="https://github.com/RulosRulosa/SweetSips/blob/main/Alexa.png" alt="Person 1">
+<img src="https://github.com/RulosRulosa/SweetSips/blob/main/Bastian.png" alt="Person 2">
+<img src="https://github.com/RulosRulosa/SweetSips/blob/main/Manolo.png" alt="Person 3">
+
+El benchmark Canvas nos muestra la posicion de otras aplicaciones ante la propuesta SweetSips
+<img src="https://github.com/RulosRulosa/SweetSips/blob/main/SweetSips.pdf" alt="BenchMark">
 <hr>
 
 <h2 id="structure">Structure</h2>
+Orden de las pantallas
 <hr>
 
 <h2 id="skeleton">Skeleton</h2>
+Wireframes
 <hr>
 
 <h2 id="surface">Surface</h2>
+Mockups
 <hr>
