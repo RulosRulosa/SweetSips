@@ -14,25 +14,32 @@ https://www.figma.com/design/eacI6XybrQjxETFygLEAB8/SweetSips?m=dev&node-id=0%3A
     <li><a href="#surface">Surface</a></li>
   </ul>
   
-  <hr>
+ <hr>
 
-  <h2 id="description">Description</h2>
-  <hr>
+<h2 id="description">Description</h2>
+<hr>
 
-  <h2 id="team">Team</h2>
-  <hr>
+<h2 id="team">Team</h2>
+Ninoska Diaz -
+Maria Belen Pinilla - Designer
+Maria Jose Reyes - Designer
+Thanya Soto - Analyst
+<hr>
 
-  <h2 id="strategy">Strategy</h2>
-  <hr>
+<h2 id="strategy">Strategy</h2>
+Tenemos el "Value Proposition Canvas" que se utilizo para determinar cual es la solucion que realmente necesitan los usuarios.
+<img src="https://github.com/RulosRulosa/SweetSips/blob/main/SweetSips.jpg" alt="Value Proposition Canvas SweetSips">
+<hr>
 
-  <h2 id="scope">Scope</h2>
-  <hr>
+<h2 id="scope">Scope</h2>
+<img src="https://github.com/RulosRulosa/SweetSips/blob/main/Alexa.png" alt="Person 1">
+<hr>
 
-  <h2 id="structure">Structure</h2>
-  <hr>
+<h2 id="structure">Structure</h2>
+<hr>
 
-  <h2 id="skeleton">Skeleton</h2>
-  <hr>
+<h2 id="skeleton">Skeleton</h2>
+<hr>
 
-  <h2 id="surface">Surface</h2>
-  <hr>
+<h2 id="surface">Surface</h2>
+<hr>
