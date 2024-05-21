@@ -38,7 +38,7 @@ El alcance que queremos llegar depende de las siguientes tres personas que fuero
 <img src="https://github.com/RulosRulosa/SweetSips/blob/main/Manolo.png" alt="Person 3">
 
 El benchmark Canvas nos muestra la posicion de otras aplicaciones ante la propuesta SweetSips
-<img src="https://github.com/RulosRulosa/SweetSips/blob/main/SweetSips.pdf" alt="BenchMark">
+<img src="https://github.com/RulosRulosa/SweetSips/blob/main/Benchmark.png" alt="BenchMark">
 <hr>
 
 <h2 id="structure">Structure</h2>
