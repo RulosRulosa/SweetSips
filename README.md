@@ -52,8 +52,8 @@ Orden de las pantallas
 <h2 id="skeleton">Skeleton</h2>
 With these insights, we can now move forward to creating wireframes for our project. Wireframes will help us visualize the structure and layout of our product, ensuring that we effectively address user needs and provide an intuitive user experience.
 
-<img src="https://github.com/RulosRulosa/SweetSips/blob/main/Wirefrime pt1.png" alt="skeleton">
-<img src="https://github.com/RulosRulosa/SweetSips/blob/main/Wirefrime pt2.png" alt="skeleton">
+<img src="https://github.com/RulosRulosa/SweetSips/blob/main/Wirefrimes%20pt1.png" alt="skeleton">
+<img src="https://github.com/RulosRulosa/SweetSips/blob/main/Wirefrimes%20pt2.png" alt="skeleton">
 <hr>
 
 <h2 id="surface">Surface</h2>
