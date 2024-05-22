@@ -60,4 +60,5 @@ With these insights, we can now move forward to creating wireframes for our proj
 Following the wireframes, we will develop mockups to present a more detailed and polished representation of the final product. Mockups will help us refine the visual design and user interface, making sure that the product is both aesthetically pleasing and functional before moving on to development.
 <img src="https://github.com/RulosRulosa/SweetSips/blob/main/mockups%20pt1.png" alt="surface">
 <img src="https://github.com/RulosRulosa/SweetSips/blob/main/mockups%20pt2.png" alt="surface">
+<img src="https://github.com/RulosRulosa/SweetSips/blob/main/mockups%20pt3.png" alt="surface">
 <hr>
