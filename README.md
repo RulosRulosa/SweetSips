@@ -46,7 +46,7 @@ Additionally, conducting a benchmark is crucial to compare our product with comp
 <hr>
 
 <h2 id="structure">Structure</h2>
-Orden de las pantallas
+<img src="https://github.com/RulosRulosa/SweetSips/blob/main/UxEstructuraNavegación.png" alt="Navigation Structure">
 <hr>
 
 <h2 id="skeleton">Skeleton</h2>
