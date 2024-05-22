@@ -17,27 +17,31 @@ https://www.figma.com/design/eacI6XybrQjxETFygLEAB8/SweetSips?node-id=0-1&t=qnn1
  <hr>
 
 <h2 id="description">Description</h2>
+
+People with a great love for coffee do not have a community where users can share, discover, and learn about different methods and recipes for coffee, or recommend coffee places that sell certain types of coffee beans, that's why "SweetSips" was created. It's an application designed to create a community around coffee.
+
+The app aims to help coffee enthusiasts by allowing them to share their experiences through articles/reviews of visited coffee places. It also aims to provide personalized coffee shop recommendations to the user, display routes to coffee shops, and showcase different brewing methods and recipes. Additionally, the app offers a community feature where users can discover and learn about different types of coffee beans. These and other functionalities are the support that 'SweetSips' seeks to provide to all users looking for an exciting way to enjoy coffee and explore new coffee experiences.
 <hr>
 
 <h2 id="team">Team</h2>
-Ninoska Diaz -
+Ninoska Diaz - Project Manager
 Maria Belen Pinilla - Designer
 Maria Jose Reyes - Designer
 Thanya Soto - Analyst
 <hr>
 
 <h2 id="strategy">Strategy</h2>
-Tenemos el "Value Proposition Canvas" que se utilizo para determinar cual es la solucion que realmente necesitan los usuarios.
+The Value Proposition Canvas is a tool designed to help businesses create products and services that perfectly match their customers' needs.
 <img src="https://github.com/RulosRulosa/SweetSips/blob/main/SweetSips.jpg" alt="Value Proposition Canvas SweetSips">
 <hr>
 
 <h2 id="scope">Scope</h2>
-El alcance que queremos llegar depende de las siguientes tres personas que fueron entrevistadas.
+After establishing our product strategy, the next step is to define the scope. This involves gaining a thorough understanding of our users and envisioning how our product's functionality will benefit them.
 <img src="https://github.com/RulosRulosa/SweetSips/blob/main/Alexa.png" alt="Person 1">
 <img src="https://github.com/RulosRulosa/SweetSips/blob/main/Bastian.png" alt="Person 2">
 <img src="https://github.com/RulosRulosa/SweetSips/blob/main/Manolo.png" alt="Person 3">
 
-El benchmark Canvas nos muestra la posicion de otras aplicaciones ante la propuesta SweetSips
+Additionally, conducting a benchmark is crucial to compare our product with competitors and identify areas for improvement.
 <img src="https://github.com/RulosRulosa/SweetSips/blob/main/Benchmark.png" alt="BenchMark">
 <hr>
 
@@ -46,9 +50,9 @@ Orden de las pantallas
 <hr>
 
 <h2 id="skeleton">Skeleton</h2>
-Wireframes
+With these insights, we can now move forward to creating wireframes for our project. Wireframes will help us visualize the structure and layout of our product, ensuring that we effectively address user needs and provide an intuitive user experience.
 <hr>
 
 <h2 id="surface">Surface</h2>
-Mockups
+Following the wireframes, we will develop mockups to present a more detailed and polished representation of the final product. Mockups will help us refine the visual design and user interface, making sure that the product is both aesthetically pleasing and functional before moving on to development.
 <hr>
