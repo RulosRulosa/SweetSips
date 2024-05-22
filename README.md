@@ -20,7 +20,7 @@ https://www.figma.com/design/eacI6XybrQjxETFygLEAB8/SweetSips?node-id=0-1&t=qnn1
 
 People with a great love for coffee do not have a community where users can share, discover, and learn about different methods and recipes for coffee, or recommend coffee places that sell certain types of coffee beans, that's why "SweetSips" was created. It's an application designed to create a community around coffee.
 
-The app aims to help coffee enthusiasts by allowing them to share their experiences through articles/reviews of visited coffee places. It also aims to provide personalized coffee shop recommendations to the user, display routes to coffee shops, and showcase different brewing methods and recipes. Additionally, the app offers a community feature where users can discover and learn about different types of coffee beans. These and other functionalities are the support that 'SweetSips' seeks to provide to all users looking for an exciting way to enjoy coffee and explore new coffee experiences.
+The app aims to help coffee enthusiasts by allowing them to share their experiences through articles/reviews of visited coffee places. It also aims to provide personalized coffee shop recommendations to the user, display routes to coffee shops, and showcase different brewing methods and recipes. These and other functionalities are the support that 'SweetSips' seeks to provide to all users looking for an exciting way to enjoy coffee and explore new coffee experiences.
 <hr>
 
 <h2 id="team">Team</h2>
