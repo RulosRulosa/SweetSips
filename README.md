@@ -24,10 +24,10 @@ The app aims to help coffee enthusiasts by allowing them to share their experien
 <hr>
 
 <h2 id="team">Team</h2>
-Ninoska Diaz - Project Manager
-Maria Belen Pinilla - Designer
-Maria Jose Reyes - Designer
-Thanya Soto - Analyst
+Ninoska Diaz - Project Manager \n
+Maria Belen Pinilla - Designer \n
+Maria Jose Reyes - Designer \n
+Thanya Soto - Analyst \n
 <hr>
 
 <h2 id="strategy">Strategy</h2>
