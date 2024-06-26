@@ -37,9 +37,9 @@ The Value Proposition Canvas is a tool designed to help businesses create produc
 
 <h2 id="scope">Scope</h2>
 After establishing our product strategy, the next step is to define the scope. This involves gaining a thorough understanding of our users and envisioning how our product's functionality will benefit them.
-<img src="https://github.com/RulosRulosa/SweetSips/blob/main/Alexa.png" alt="Person 1">
-<img src="https://github.com/RulosRulosa/SweetSips/blob/main/Bastian.png" alt="Person 2">
-<img src="https://github.com/RulosRulosa/SweetSips/blob/main/Manolo.png" alt="Person 3">
+<img src="https://github.com/RulosRulosa/SweetSips/blob/main/Persona/Alexa.png" alt="Person 1">
+<img src="https://github.com/RulosRulosa/SweetSips/blob/main/Persona/Bastian.png" alt="Person 2">
+<img src="https://github.com/RulosRulosa/SweetSips/blob/main/Persona/Manolo.png" alt="Person 3">
 
 Additionally, conducting a benchmark is crucial to compare our product with competitors and identify areas for improvement.
 <img src="https://github.com/RulosRulosa/SweetSips/blob/main/Benchmark.png" alt="BenchMark">
