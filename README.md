@@ -13,7 +13,6 @@ https://www.figma.com/design/eacI6XybrQjxETFygLEAB8/SweetSips?node-id=0-1&t=qnn1
     <li><a href="#skeleton">Skeleton</a></li>
     <li><a href="#surface">Surface</a></li>
     <li><a href="#heuristicEvaluation">Heuristic Evaluation</a></li>
-    <li><a href="#accessibility">Accessibility</a></li>
   </ul>
   
  <hr>
