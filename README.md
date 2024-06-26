@@ -13,6 +13,7 @@ https://www.figma.com/design/eacI6XybrQjxETFygLEAB8/SweetSips?node-id=0-1&t=qnn1
     <li><a href="#skeleton">Skeleton</a></li>
     <li><a href="#surface">Surface</a></li>
     <li><a href="#heuristicEvaluation">Heuristic Evaluation</a></li>
+    <li><a href="#Accesibility">Accesibility</a></li>
   </ul>
   
  <hr>
@@ -92,4 +93,9 @@ Dark Mode
 <h2 id="heuristicEvaluation">Heuristic Evaluation</h2>
 Here is the heuristic evaluation carried out by a user experience design evaluation team
 https://github.com/RulosRulosa/SweetSips/blob/main/Taller%20-%20Eval.%20Heurística.docx.pdf
+<hr>
+
+<h2 id="Accesibility">Accessibility</h2>
+Based on usability testing, we added dark mode to help visualize the application better, as seen in the mockup below:
+<img src="https://github.com/RulosRulosa/SweetSips/blob/main/Mockups/DarkMode.png" alt="Accessibility">
 <hr>
