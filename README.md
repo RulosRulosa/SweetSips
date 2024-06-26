@@ -96,6 +96,7 @@ https://github.com/RulosRulosa/SweetSips/blob/main/Taller%20-%20Eval.%20Heuríst
 <hr>
 
 <h2 id="Accesibility">Accessibility</h2>
-Based on usability testing, we added dark mode to help visualize the application better, as seen in the mockup below:
+Based on usability testing, we added dark mode and the ability to enlarge fonts to help visualize the app better, as seen in the mockup below:
 <img src="https://github.com/RulosRulosa/SweetSips/blob/main/Mockups/DarkMode.png" alt="Accessibility">
+<img src="https://github.com/RulosRulosa/SweetSips/blob/main/Mockups/Large_Text.png" alt="Accessibility">
 <hr>
