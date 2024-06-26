@@ -52,13 +52,24 @@ Additionally, conducting a benchmark is crucial to compare our product with comp
 <h2 id="skeleton">Skeleton</h2>
 With these insights, we can now move forward to creating wireframes for our project. Wireframes will help us visualize the structure and layout of our product, ensuring that we effectively address user needs and provide an intuitive user experience.
 
-<img src="https://github.com/RulosRulosa/SweetSips/blob/main/Wirefrimes%20pt1.png" alt="skeleton">
-<img src="https://github.com/RulosRulosa/SweetSips/blob/main/Wirefrimes%20pt2.png" alt="skeleton">
+<img src="https://github.com/RulosRulosa/SweetSips/blob/main/Wireframes/Wirefrimes%20pt1.png" alt="skeleton">
+<img src="https://github.com/RulosRulosa/SweetSips/blob/main/Wireframes/Wirefrimes%20pt2.png" alt="skeleton">
 <hr>
 
 <h2 id="surface">Surface</h2>
 Following the wireframes, we will develop mockups to present a more detailed and polished representation of the final product. Mockups will help us refine the visual design and user interface, making sure that the product is both aesthetically pleasing and functional before moving on to development.
-<img src="https://github.com/RulosRulosa/SweetSips/blob/main/mockups%20pt1.png" alt="surface">
-<img src="https://github.com/RulosRulosa/SweetSips/blob/main/mockups%20pt2.png" alt="surface">
-<img src="https://github.com/RulosRulosa/SweetSips/blob/main/mockups%20pt3.png" alt="surface">
+<img src="https://github.com/RulosRulosa/SweetSips/blob/main/Mockups/Cart_payment_and_OrderDetail.png" alt="surface">
+Cart payment and Order deatail
+<img src="https://github.com/RulosRulosa/SweetSips/blob/main/Mockups/Login_and_home.png" alt="surface">
+Login and home
+<img src="https://github.com/RulosRulosa/SweetSips/blob/main/Mockups/Profile_and_Search.png" alt="surface">
+Profile and search
+<img src="https://github.com/RulosRulosa/SweetSips/blob/main/Mockups/Local_shops_Comments_and_Rateshop.png" alt="surface">
+Local shops Comments and Rateshop
+<img src="https://github.com/RulosRulosa/SweetSips/blob/main/Mockups/Recipes_and_comments_recipe.png" alt="surface">
+Recipes and comments recipe
+<img src="https://github.com/RulosRulosa/SweetSips/blob/main/Mockups/Favs.png" alt="surface">
+Favorite recipes and shops
+<img src="https://github.com/RulosRulosa/SweetSips/blob/main/Mockups/DarkMode.png" alt="surface">
+Dark Mode
 <hr>
