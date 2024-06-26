@@ -12,6 +12,8 @@ https://www.figma.com/design/eacI6XybrQjxETFygLEAB8/SweetSips?node-id=0-1&t=qnn1
     <li><a href="#structure">Structure</a></li>
     <li><a href="#skeleton">Skeleton</a></li>
     <li><a href="#surface">Surface</a></li>
+    <li><a href="#heuristicEvaluation">Heuristic Evaluation</a></li>
+    <li><a href="#accessibility">Accessibility</a></li>
   </ul>
   
  <hr>
@@ -72,4 +74,12 @@ Recipes and comments recipe
 Favorite recipes and shops
 <img src="https://github.com/RulosRulosa/SweetSips/blob/main/Mockups/DarkMode.png" alt="surface">
 Dark Mode
+<hr>
+
+<h2 id="#heuristicEvaluation">Heuristic Evaluation</h2>
+
+<hr>
+
+<h2 id="#accessibility">Accessibility</h2>
+
 <hr>
