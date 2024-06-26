@@ -50,10 +50,12 @@ Additionally, conducting a benchmark is crucial to compare our product with comp
 <h2 id="structure">Structure</h2>
 <h3 id="OldStructure">Old Structure</h3>
 This is the old navigation that was in the application
+<img src="https://github.com/RulosRulosa/SweetSips/blob/main/Navegacion/UxEstructuraNavegacionOLD.png" alt="Navigation Structure">
+
 
 <h3 id="NewStructure">New Structure</h3>
 This is the new navigation that you have in the application
-<img src="https://github.com/RulosRulosa/SweetSips/blob/main/UxEstructuraNavegacionArreglada.png" alt="Navigation Structure">
+<img src="https://github.com/RulosRulosa/SweetSips/blob/main/Navegacion/UxEstructuraNavegacionArreglada.png" alt="Navigation Structure">
 <hr>
 
 <h2 id="skeleton">Skeleton</h2>
