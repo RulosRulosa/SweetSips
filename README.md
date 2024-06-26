@@ -60,6 +60,13 @@ With these insights, we can now move forward to creating wireframes for our proj
 
 <h2 id="surface">Surface</h2>
 Following the wireframes, we will develop mockups to present a more detailed and polished representation of the final product. Mockups will help us refine the visual design and user interface, making sure that the product is both aesthetically pleasing and functional before moving on to development.
+<h3 id="Oldsurface">Old Surface</h3>
+<img src="https://github.com/RulosRulosa/SweetSips/blob/main/Mockups/Mockup%20viejos/mockupviejo1.png" alt="OldSurface">
+<img src="https://github.com/RulosRulosa/SweetSips/blob/main/Mockups/Mockup%20viejos/mockupviejo2.png" alt="OldSurface">
+<img src="https://github.com/RulosRulosa/SweetSips/blob/main/Mockups/Mockup%20viejos/mockupviejo3.png" alt="OldSurface">
+
+<h3 id="NewSurface">New Surface</h3>
+These are the changes that were made to the mockups after the first presentation:
 <img src="https://github.com/RulosRulosa/SweetSips/blob/main/Mockups/Cart_payment_and_OrderDetail.png" alt="surface">
 Cart payment and Order deatail
 <img src="https://github.com/RulosRulosa/SweetSips/blob/main/Mockups/Login_and_home.png" alt="surface">
@@ -77,9 +84,6 @@ Dark Mode
 <hr>
 
 <h2 id="#heuristicEvaluation">Heuristic Evaluation</h2>
-
-<hr>
-
-<h2 id="#accessibility">Accessibility</h2>
-
+Here is the heuristic evaluation carried out by a user experience design evaluation team
+https://github.com/RulosRulosa/SweetSips/blob/main/Taller%20-%20Eval.%20Heurística.docx.pdf
 <hr>
