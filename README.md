@@ -73,23 +73,23 @@ Following the wireframes, we will develop mockups to present a more detailed and
 
 <h3 id="NewSurface">New Surface</h3>
 These are the changes that were made to the mockups after the first presentation:
-<img src="https://github.com/RulosRulosa/SweetSips/blob/main/Mockups/Cart_payment_and_OrderDetail.png" alt="surface">
 Cart payment and Order deatail
-<img src="https://github.com/RulosRulosa/SweetSips/blob/main/Mockups/Login_and_home.png" alt="surface">
+<img src="https://github.com/RulosRulosa/SweetSips/blob/main/Mockups/Cart_payment_and_OrderDetail.png" alt="surface">
 Login and home
-<img src="https://github.com/RulosRulosa/SweetSips/blob/main/Mockups/Profile_and_Search.png" alt="surface">
+<img src="https://github.com/RulosRulosa/SweetSips/blob/main/Mockups/Login_and_home.png" alt="surface">
 Profile and search
-<img src="https://github.com/RulosRulosa/SweetSips/blob/main/Mockups/Local_shops_Comments_and_Rateshop.png" alt="surface">
+<img src="https://github.com/RulosRulosa/SweetSips/blob/main/Mockups/Profile_and_Search.png" alt="surface">
 Local shops Comments and Rateshop
-<img src="https://github.com/RulosRulosa/SweetSips/blob/main/Mockups/Recipes_and_comments_recipe.png" alt="surface">
+<img src="https://github.com/RulosRulosa/SweetSips/blob/main/Mockups/Local_shops_Comments_and_Rateshop.png" alt="surface">
 Recipes and comments recipe
-<img src="https://github.com/RulosRulosa/SweetSips/blob/main/Mockups/Favs.png" alt="surface">
+<img src="https://github.com/RulosRulosa/SweetSips/blob/main/Mockups/Recipes_and_comments_recipe.png" alt="surface">
 Favorite recipes and shops
-<img src="https://github.com/RulosRulosa/SweetSips/blob/main/Mockups/DarkMode.png" alt="surface">
+<img src="https://github.com/RulosRulosa/SweetSips/blob/main/Mockups/Favs.png" alt="surface">
 Dark Mode
+<img src="https://github.com/RulosRulosa/SweetSips/blob/main/Mockups/DarkMode.png" alt="surface">
 <hr>
 
-<h2 id="#heuristicEvaluation">Heuristic Evaluation</h2>
+<h2 id="heuristicEvaluation">Heuristic Evaluation</h2>
 Here is the heuristic evaluation carried out by a user experience design evaluation team
 https://github.com/RulosRulosa/SweetSips/blob/main/Taller%20-%20Eval.%20Heurística.docx.pdf
 <hr>
